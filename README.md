@@ -1,2 +1,2 @@
 # Consumindo API com Retrofit
-Exemplo de como consumir API com Retrofit.
+Exemplos de como consumir API com Retrofit.Explorando a biblioteca.
