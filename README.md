@@ -1,2 +1,2 @@
-# Consumindo-API---Retrofit
-Exemplo de consumo de API com Retrofit
+# Consumindo API-Retrofit
+Exemplo de como consumir API com Retrofit.
