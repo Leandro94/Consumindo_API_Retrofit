@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/FlappyBird" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Requisicoes_HTTP_Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Retrofit_Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WhatsApp" vcs="Git" />
+  </component>
+</project>
